@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/60a3d06c-7922-4c9b-8193-8dc55df57108/resourceGroups/Direkt/providers/Microsoft.Web/sites/direkttest"
+}
